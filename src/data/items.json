@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Birthday Card",
+    "price": 2.99,
+    "imgUrl": "bday-card.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Christmas Card",
+    "price": 3.99,
+    "imgUrl": "xmas-card.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Plate set of 12",
+    "price": 50.00,
+    "imgUrl": "plates.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Wardrobe",
+    "price": 1500,
+    "imgUrl": "wardrobe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Single Bed",
+    "price": 2000,
+    "imgUrl": "bed.jpg"
+  },{
+    "id": 6,
+    "name": "Queen Bed",
+    "price": 3000,
+    "imgUrl": "bed.jpg"
+  },{
+    "id": 7,
+    "name": "King Bed",
+    "price": 4000,
+    "imgUrl": "bed.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Lamp",
+    "price": 79.99,
+    "imgUrl": "lamp.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dinner Plate",
+    "price": 9.99,
+    "imgUrl": "plates.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Get Well Soon Card",
+    "price": 4.99,
+    "imgUrl": "bday-card.jpg"
+  }
+]

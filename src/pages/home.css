@@ -1,0 +1,36 @@
+.homepage{
+  text-align:center;
+
+
+}
+.homepage > a {
+  text-decoration: none;
+}
+.homepage_img{
+  max-width:50vw;
+  padding-bottom:3rem;
+}
+.homepage >h1{
+  padding-top:1rem;
+  font-size:4.5rem;
+  
+}
+
+.homepage >h5{
+  padding: bottom 2rem;
+}
+
+.homepage > p{
+  padding-bottom:1rem;
+}
+.homepage > a > .button {
+  background-color: black;
+  color: white;
+  padding: 1vmax;
+  font:'Roboto';
+}
+.homepage > a > .button:hover {
+  background-color: grey;
+  color: white;
+}
+
