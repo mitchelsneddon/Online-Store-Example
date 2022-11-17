@@ -1,6 +1,6 @@
 import MetaData from './MetaData';
 import './search.css';
-import SearchProduct from './search';
+import SearchProduct from './Search';
 
 
 export const SearchPage = () => {
